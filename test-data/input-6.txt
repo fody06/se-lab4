@@ -1,0 +1,4 @@
+GT4500,2,0.0,0,0.0
+TORPEDO,SINGLE # 1. lövés: Elsődlegesből (SUCCESS)
+TORPEDO,SINGLE # 2. lövés: Másodlagos jönne, de üres, ezért újra az elsődlegesből lő (SUCCESS)
+EXIT
